@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#card {
+background-color: rgb(72, 78, 228);
+width: fit-content;
+height: fit-content;
+border: 10px rgb(106, 178, 198) dotted;
+padding: 10px 20px 15px 10px;
+margin: 20px 30px;
+margin-top: 20px;
+margin-left: 30px;
+}
+#img {
+width: 200px;
+height: 200px;
+}
+#heading-text {
+display: block;
+color: rgb(255, 255, 255);
+}
+#text-cont {
+display: inline-block;
+}
+
+.txt {
+display: block;
+color: rgb(213, 213, 213);
+}
